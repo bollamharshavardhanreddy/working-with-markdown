@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![Hosted image](http://www.hdcarwallpapers.com/walls/porsche_911_turbo_s_exclusive_aloy_wheel_4k-HD.jpg "PORSCHE")
 
 ## Paragraphs
 
