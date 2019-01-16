@@ -84,9 +84,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+HarshaVardhanReddy Bollam
 
-dcase@nwmissouri.edu
+s534624@nwmissouri.edu
 
 ## 44563-01
 
