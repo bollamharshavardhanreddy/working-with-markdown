@@ -82,6 +82,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 ##  About
 
 HarshaVardhanReddy Bollam
+Call me "Harsha"
 
 s534624@nwmissouri.edu
 
@@ -91,3 +92,5 @@ s534624@nwmissouri.edu
 Welcome to images of Harsha
 
 ![Hosted image](https://offload.uni.watch/wp-content/uploads/2016/10/13094400/Screen-shot-2016-10-17-at-8.43.16-PM.png "UnderArmour NBA")
+
+![Hosted image](https://scontent-amt2-1.cdninstagram.com/vp/fd07f333a91c26e7f70f6798d5d46c06/5C6BF94C/t51.2885-19/s320x320/42332855_109012680005766_8058436035547234304_n.jpg  "Harsha")
