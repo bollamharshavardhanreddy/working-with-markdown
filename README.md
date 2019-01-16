@@ -69,10 +69,7 @@ Images look like links with an ! in front, for example, an external image can be
 
 ## Paragraphs
 
-Lines directly below one another will wrap into a single paragraph. 
-Just as this sentence is merged onto the line with the sentence before.
-
-If you don't want text to flow together, leave a blank line between items you wish visually separated as done with the name and email address at the end of this document. Use the Preview mentioned below to check appearance before you commit your changes. 
+Hello...Hi this is HarshaVardhanReddy from Hyderabad, Telangana, India.
 
 ## Preview Changes
 
